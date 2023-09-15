@@ -9,10 +9,8 @@
 </head>
 <body>
 <center>
-<a:form action="/go1">
-<a:textfield label="Enter UserName" name="username"></a:textfield>
-<a:password label="enter Password" name ="password"></a:password>
-<a:submit value="Submit"></a:submit>
+<a:form>
+<h1><a:label>Welcome to Struts!!!!</a:label></h1>
 </a:form>
 </center>
 </body>
